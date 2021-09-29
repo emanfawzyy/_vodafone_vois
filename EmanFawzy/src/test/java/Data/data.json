@@ -1,0 +1,13 @@
+
+
+  {
+    "UserRole" : "admin",
+    "EmployeeName" : "Alice Duval" ,
+    "UserName" : "Emaneman",
+    "Status" : "Disabled",
+    "Password": "Admin123",
+    "ConfirmPassword": "Admin123"
+
+  }
+ 
+
